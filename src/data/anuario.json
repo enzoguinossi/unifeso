@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Enzo Guinossi",
+    "bio": "Dev Backend Node.js",
+    "fotoUrl": "https://github.com/enzoguinossi.png",
+    "linkedin": "https://www.linkedin.com/in/enzo-guinossi/",
+    "instagram": "https://www.instagram.com/enzo/"
+  },
+  {
+    "nome": "Maria Silva",
+    "fotoUrl": "/fotos/maria.jpg",
+    "github": "https://github.com/maria"
+  }
+]
